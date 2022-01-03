@@ -1,0 +1,11 @@
+.linkNavbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    list-style: none;
+    padding: 0 40px;
+    align-items: center;
+    cursor: pointer;
+    color: violet;
+
+}
